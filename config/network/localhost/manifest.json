@@ -4,9 +4,9 @@
     "iconName": "Moon-icon.png",
     "terminalID": "Y56",
     "defaultUser": {
-        "userId": "user",
+        "userId": "FRIEND_OF_AELBURN",
         "password": "",
-        "userName": "anonymous"
+        "userName": "SHUT_DOWN_CHRONOS"
     },
     "randomSeed": true,
     "initialHistory": {
